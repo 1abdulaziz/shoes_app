@@ -66,7 +66,7 @@ class _MyHomePageState extends State<MyHomePage>
                       width: 3,
                     ),
                     Text(
-                      'Pay',
+                      'My cart',
                       style: style.copyWith(
                           fontSize: 14,
                           fontWeight: FontWeight.w900,
